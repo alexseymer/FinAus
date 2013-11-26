@@ -31,3 +31,7 @@ plot(cars)
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
 
+>Hey guys, whazz up!?!
+
+![](http://www.massey.ac.nz/massey/fms/Massey%20News/2008/11/images/inglehart-ron.jpg)
+
