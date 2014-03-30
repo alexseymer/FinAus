@@ -20,3 +20,8 @@ Introduction
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/200px-Flag_of_Finland.svg.png)
 
+Content
+========================
+
+- [thesis.html](thesis.html)
+- [projectSlides.html](projectSlides.html)
