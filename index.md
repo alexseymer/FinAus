@@ -1,11 +1,13 @@
----
-title: "Subjective well-being and trust: multilevel approach revisited"
-date: March 30, 2014
----
+% Subjective well-being and trust: multilevel approach revisited
+% March 30, 2014
+
 
 <link rel="stylesheet" href="http://bootswatch.com/superhero/bootstrap.css" media="screen">
 <link rel="stylesheet" href="http://bootswatch.com/assets/css/bootswatch.min.css">
 
+<!--
+pandoc -s -S index.md -o index.html
+-->
 
 
 Introduction
